@@ -297,3 +297,6 @@
   "DFFlagEnableTelemetryV2FRMStats": "False",
   "FFlagEnableFPSAndFrameTime": "True"
 }
+{
+    "DFIntMaxMissedWorldStepsRemembered": "1000"
+}
